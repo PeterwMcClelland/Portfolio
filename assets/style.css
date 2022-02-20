@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+header {
+    background-color: rgba(136, 116, 116, 0.911);
+    justify-content: center;
+    height: 75px;
+    padding: 20px 35px;
+    border-bottom: solid 2px rgba(255, 255, 255, 0.91);
+}
+
+body {
+    background-color: rgba(180, 180, 180, 0.7);
+}
+
+h1 {
+    justify-content: space-between;
+    border-radius: 10px;
+    color: rgb(227 236 255 / 91%);
+}
+
+header h1 {
+    border-radius: 10px;
+    border-color: rgb(181 181 181 / 91%);
+}
+
+h2 {
+    justify-content: start;
+}
+
+.about-me {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    height: 150px;
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content:center;
+    align-items: stretch;
+    flex-wrap: wrap;
+  }
+
+  
+
+.run-buddy { 
+    font-size: 20px;
+    border-radius: 20px;
+    color: ivory;
+    background-image: url(../assets/Images/hero-bg.jpeg);
+    font-weight: bold;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    border: solid;
+    width: 800px;
+    height: 275px;
+    border: solid 2px rgba(255, 255, 255, 0.91);
+    background-size: cover;
+    background-position: center;
+}
+.two { 
+    font-size: 20px;
+    border-radius: 20px;
+    color: ivory;
+    font-weight: bold;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    border: solid;
+    width: 300px;
+    height: 275px;
+    background-color: rgb(121, 223, 248);
+    background-image: url(../assets/Images/clouds-mf.jpg);
+    border: solid 2px rgba(255, 255, 255, 0.91);
+}
+.three { 
+    font-size: 20px;
+    border-radius: 20px;
+    color: ivory;
+    background-image: url(../assets/Images/240_F_381838010_ewztOIKkTlDovmQqqpX6gNB4r59AeJU9.jpg);
+    font-weight: bold;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    border: solid;
+    width: 300px;
+    height: 275px;
+    background-color: rgb(255, 255, 255);
+    border: solid 2px rgb(181 181 181 / 91%);
+}
+.four { 
+    font-size: 20px; 
+    border-radius: 20px;
+    color: ivory;
+    font-weight: bold;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    border: solid;
+    width: 300px;
+    height: 275px;
+    background-color: rgb(143, 114, 248);
+    border: solid 2px rgba(255, 255, 255, 0.91);
+    background-image: url(../assets/Images/The-Role-of-Marketing-1.jpg);
+    }
+
+.five { 
+    font-size: 20px;
+    border-radius: 20px;
+    color: ivory;
+    font-weight: bold;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    border: solid;
+    width: 500px;
+    height: 275px;
+    background-color: rgb(255, 164, 164); 
+    border: solid 2px rgba(255, 255, 255, 0.91);
+    background-image: url(../assets/Images/102000.webp);
+}
+
+footer nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+footer nav {
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  display:inline;
+  text-decoration: none;
+  font-size: 17px;
+  justify-content: space-between;
+  margin: auto;
+  }
+
+footer a {
+    text-decoration: none;
+    color: rgb(227 236 255 / 91%);
+}
+footer nav ul li a {
+    padding: 10px 15px;
+  font-weight: lighter;
+  font-size: 1.55vw;
+}
+
+h3 {
+    color: rgb(227 236 255 / 91%);
+}
+
+footer {
+    border-top: solid white;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 35px;
+    background-color: rgba(136, 116, 116, 0.911);
+    display: flex ;
+  }
