@@ -50,7 +50,7 @@ h2 {
     font-size: 20px;
     border-radius: 20px;
     color: ivory;
-    background-image: url(../assets/Images/hero-bg.jpeg);
+    background-image: url(../assets/Images/gamerz_connect_main_image.png);
     font-weight: bold;
     padding: 10px;
     height: 275px;
@@ -70,14 +70,16 @@ h2 {
     border: solid;
     width: 300px;
     height: 275px;
-    background-image: url(../assets/Images/clouds-mf.jpg);
+    background-image: url(../assets/Images/Screen\ Shot\ 2022-07-26\ at\ 4.14.07\ PM.png);
+    background-size: 325px 300px;
     border: solid 2px rgba(255, 255, 255, 0.91);
 }
 .three { 
     font-size: 20px;
     border-radius: 20px;
     color: ivory;
-    background-image: url(../assets/Images/240_F_381838010_ewztOIKkTlDovmQqqpX6gNB4r59AeJU9.jpg);
+    background-image: url(../assets/Images/Screen\ Shot\ 2022-07-25\ at\ 9.58.03\ PM.png);
+    background-size: 425px 300px;
     font-weight: bold;
     display: flex;
     padding: 10px;
@@ -97,7 +99,8 @@ h2 {
     width: 300px;
     height: 275px;
     border: solid 2px rgba(255, 255, 255, 0.91);
-    background-image: url(../assets/Images/The-Role-of-Marketing-1.jpg);
+    background-image: url(../assets/Images/Screen\ Shot\ 2022-07-26\ at\ 4.30.01\ PM.png);
+    background-size: 350px 225px;
     }
 
 .five { 
@@ -120,8 +123,8 @@ h2 {
 	gap: 30px
 }
 
-.grid-with-sidebar > div{
-	/* background: #CCC; */
+.grid-with-sidebar {
+	background: #CCCC
 }
 
 
