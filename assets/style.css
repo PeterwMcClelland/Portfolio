@@ -45,12 +45,12 @@ h2 {
 
   
 
-.run-buddy { 
+.one { 
     margin: 20px 0px 20px 0px;
     font-size: 20px;
     border-radius: 20px;
     color: ivory;
-    background-image: url(../assets/Images/gamerz_connect_main_image.png);
+    background-image: url(../assets/Images/Logo.jpg);
     font-weight: bold;
     padding: 10px;
     height: 275px;
@@ -70,7 +70,7 @@ h2 {
     border: solid;
     width: 300px;
     height: 250px;
-    background-image: url(../assets/Images/Screen\ Shot\ 2022-07-26\ at\ 4.14.07\ PM.png);
+    background-image: url(../assets/Images/gamerz_connect_main_image.png);
     background-size: 325px 275px;
     border: solid 2px rgba(255, 255, 255, 0.91);
 }
