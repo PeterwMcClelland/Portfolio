@@ -4,11 +4,15 @@
     box-sizing: border-box;
   }
 
+  h4 {
+    color: rgb(227 236 255 / 91%);
+  }
+
 header {
     background-color: rgba(136, 116, 116, 0.911);
     justify-content: center;
-    height: 75px;
-    padding: 20px 35px;
+    height: 85px;
+    padding: 15px 40px;
     border-bottom: solid 2px rgba(255, 255, 255, 0.91);
 }
 
@@ -85,7 +89,7 @@ h2 {
     padding: 10px;
     border: solid;
     width: 300px;
-    height: 275px;
+    height: 250px;
     border: solid 2px rgba(255, 255, 255, 0.91);
 }
 .four { 
