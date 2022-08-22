@@ -7,7 +7,7 @@ This is a portfolio of work from Peter McClelland.
 HTML, CSS
 
 ## GitHub
-https://github.com/PeterwMcClelland
+https://github.com/PeterwMcClelland/Portfolio
 
 # Contributers
 Made By Peter McClelland
