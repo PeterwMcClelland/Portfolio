@@ -61,7 +61,14 @@ h2 {
     flex-wrap: wrap;
   }
 
-  
+  div {
+      width: fit-content;
+  }
+
+  .projects {
+      margin-left: 40px;
+  }
+
 
 .one { 
     margin: 20px 0px 20px 0px;
