@@ -159,6 +159,15 @@ ul {
 
 }
 
+.utimg {
+    image-orientation: initial;
+}
+
+.img-fluid {
+    height: 75%;
+    width: 75%;
+}
+
 .grid-with-sidebar{
 	display: grid;
 	grid-template-columns: 2fr 5fr;
